@@ -122,7 +122,7 @@ Stored data includes:
   - run with `py main.py`
 - Advanced AI mode is intentionally slower due to deeper search.
 
-## Resume / Interview Value
+## Value of this project
 
 This project demonstrates:
 - algorithmic problem solving (game tree search)
